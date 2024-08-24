@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{F5692E00-2FA3-4747-8DB0-01BC463A60FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Debug|x64.ActiveCfg = Debug|x64
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Debug|x64.Build.0 = Debug|x64
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Release|x64.ActiveCfg = Release|x64
+		{F5692E00-2FA3-4747-8DB0-01BC463A60FF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B88762F-4420-45D6-8BD6-5FF6C44413F7}
+	EndGlobalSection
+EndGlobal
